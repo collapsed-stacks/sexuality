@@ -1,2 +1,11 @@
-title: "Sexuality Stack Exchange Archive"
-exclude: ['*.xml', '*.jsonl']
+{
+  "exclude": [
+    "data"
+  ],
+  "stack_site": {
+    "name": "Sexuality Stack Exchange",
+    "proposal_id": 3303,
+    "slug": "sexuality"
+  },
+  "title": "Sexuality Stack Exchange Archive"
+}

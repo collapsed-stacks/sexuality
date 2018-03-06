@@ -42,4 +42,4 @@ Small amounts of spermicidal is perfectly fine so I would probably suggest takin
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
